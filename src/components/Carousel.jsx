@@ -37,7 +37,7 @@ const Carousel = ({ slides }) => {
 
   const goPrev = () => {
     setActiveIndex((prevIndex) =>
-      prevIndex - 1 < 0 ? slides.length - 1 : prevIndex - 1
+      prevIndex - 1 < 0 ? slides.length - 1 : prevIndex - 1,
     );
   };
 
@@ -72,12 +72,12 @@ const Carousel = ({ slides }) => {
         ))}
       </div>
 
-      <div className="buttons">
+      <div className="arrows">
         <button id="prev" onClick={goPrev}>
-          rigth
+          {"<"}
         </button>
         <button id="next" onClick={goNext}>
-          left
+          {">"}
         </button>
       </div>
 
