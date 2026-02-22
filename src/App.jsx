@@ -15,42 +15,42 @@ const slideData = [
   {
     image: img1,
     title: "Full Moon",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img2,
     title: "Pandora",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img3,
     title: "Temple",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img4,
     title: "Godzilla",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img5,
     title: "Spartan",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},{
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},{
     image: img1,
     title: "Full Moon",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img2,
     title: "Pandora",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img3,
     title: "Temple",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img4,
     title: "Godzilla",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
   {
     image: img5,
     title: "Spartan",
-    description:"Developed a dynamic React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
+    description:"This is a React carousel with auto-play, previous/next controls, and interactive thumbnails. Built using modern React Hooks and optimized with Vite for fast development and performance across all screen sizes"},
 ];
 
 const App = () => {
